@@ -49,6 +49,7 @@ Top-tier software for site safety management, hazard identification, permit-to-w
 | **[FieldSafe](https://www.fieldsafesolutions.com/)** 🛰️ | **~$3.5M Revenue** *(Private)* | **~$100 / month** (Base lone worker bundle) | **14-Day Free Trial** (No free forever plan) | Lone worker monitoring, journey tracking, safety calendars, hazard check-ins, and emergency alerts. |
 | **[HammerTech](https://www.hammertech.com/)** 👷 | **$70M Growth Funding** *(Private)* | **~$500 / month** (Flat fee quote model) | **Free for Subcontractors** (GC host pays; no direct free forever for GC; Demo trial available) | HSEQ management, sub sign-in/out, RAMS approvals, permit-to-work, and AI safety intelligence. |
 | **[Safesite](https://safesitehq.com/)** ⚡ | **Private Startup** | **$16 / member / month** | **Free Forever Plan** (Unlimited members/guests, risk dashboard, mobile app) & 30-Day Premium Trial | Leading indicator analytics, WCIO risk assessments, OSHA 300 log sync, and field inspection forms. |
+| **[PassCited CHST study tools](https://passcited.com/tools)** 🧮 | **New, bootstrapped** *(Private, launched October 2026)* | **Free** tools; optional paid CHST prep pass $80 (one payment, 180 days) | **Free, no account** (calculators and a daily CHST practice question) | Free sling angle, incident rate and noise calculators with cited formulas, plus a free daily CHST practice question. Independent, not affiliated with BCSP. |
 
 ---
 
